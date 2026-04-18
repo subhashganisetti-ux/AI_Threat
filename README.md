@@ -158,7 +158,7 @@ The full system integrates:
 
 ## 👩‍💻 Author
 
-**Ganta Charishma**
+**Subhash Ganisetti**
 B.Tech CSE (Cybersecurity + IoT + Blockchain)
 AI & Edge Intelligence Enthusiast
 
